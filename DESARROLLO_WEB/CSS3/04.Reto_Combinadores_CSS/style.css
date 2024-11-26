@@ -1,0 +1,6 @@
+/* Cambiar a color “grey” y font-style:italic todos los elementos “p” descendientes de un elemento “section”. */
+
+main > section > p {
+  color: grey;
+  font-style: italic;
+}
