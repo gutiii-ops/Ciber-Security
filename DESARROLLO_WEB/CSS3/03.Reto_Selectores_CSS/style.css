@@ -47,7 +47,7 @@ ol {
   color: green;
 }
 
-ol > li {
+ol li {
   color: crimson;
 }
 
